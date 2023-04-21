@@ -1,0 +1,19 @@
+
+[
+    {"type": "caractérisation", "sentence": "The ship called mouche is born in Lyon", "verb": "is born", "subject": "mouche", "object":"Lyon", "subject_link":"https://www.lesyachtsdelyon.com/bateaux/la-mouche/", "object_link":"https://fr.wikipedia.org/wiki/Lyon"},
+    {"type": "caractérisation", "sentence": "Lyon is the city of the first bike-sharing programs in France.", "verb": "is", "subject": "Lyon", "object":"city of the first bike-sharing programs", "subject_link":"https://fr.wikipedia.org/wiki/Lyon", "object_link":"http://geoconfluences.ens-lyon.fr/actualites/veille/10-ans-de-velov-a-lyon#:~:text=Le%2019%20mai%202005%2C%20%C3%A0,entreprise%20priv%C3%A9e%20de%20mobilier%20urbain."},
+    {"type": "caractérisation", "sentence": "The Brunet house, located in the Croix-Rousse neighborhood, was literally built based on the layout of a sundial.", "verb": "was literally built", "subject": "Brunet house", "object":"layout of a sundial", "subject_link":"https://fr.wikipedia.org/wiki/Maison_Brunet"},
+    {"type": "caractérisation", "sentence": "The Guignols are associated with the identity of Lyon", "verb": "are associated", "subject": "Guignols", "object":"Lyon", "subject_link":"https://www.lamaisondeguignol.fr/", "object_link":"https://fr.wikipedia.org/wiki/Lyon"},
+    {"type": "caractérisation", "sentence": "Lyon has the particularity of being able to differentiate the Roman center on the Fourvière hill, the medieval center in Old Lyon, the Renaissance and classical period center on the peninsula, the 19th century center at the Prefecture, and the 20th century center at Part Dieu.", "verb": "has the particularity", "subject": "Lyon", "object":"Roman center on the Fourvière hill, the medieval center in Old Lyon, the Renaissance and classical period center on the peninsula, the 19th century center at the Prefecture, and the 20th century center at Part Dieu", "subject_link":"https://fr.wikipedia.org/wiki/Lyon", "object_link":"https://whc.unesco.org/fr/list/872/"},
+    {"type": "caractérisation", "sentence": "The praline tart is a culinary specialty of Lyon.", "verb": "is a culinary specialty", "subject": "praline tart", "object":"Lyon", "subject_link":"https://cuisinezavecdjouza.fr/article-tarte-lyonnaise-aux-pralines-120370709-html/", "object_link":"https://fr.wikipedia.org/wiki/Lyon"},
+    {"type": "caractérisation", "sentence": "Rayon is a typical fabric from Lyon", "verb": "is a typical", "subject":"Rayon", "object":"Lyon", "subject_link":"https://www.persee.fr/doc/geo_0003-4010_1939_num_48_273_11450", "object_link":"https://fr.wikipedia.org/wiki/Lyon"},
+    {"type": "caractérisation", "sentence": "The painted walls are unique to Lyon's urban planning", "verb": "are unique", "subject": "painted walls", "object":"Lyon's urban planning", "subject_link":"https://www.lyon.fr/decouvrir-lyon/balades-en-ville/les-murs-peints", "object_link":"https://www.lyon.fr/projets-urbains/urbanisme"},
+    {"type": "caractérisation", "sentence": "The Thiaffait Passages characterize the Croix-Rousse neighborhood", "verb": "characterize", "subject": "Thiaffait Passages", "object":"Croix-Rousse", "subject_link":"https://www.patrimoine-lyon.org/secteur_unesco/croix-rousse/le-bas-des-pentes/passage-thiaffait", "object_link":"https://www.patrimoine-lyon.org/secteur_unesco/croix-rousse"},
+    {"type": "caractérisation", "sentence": "The gargoyles characterize the architecture of the Saint-Jean Cathedral", "verb": "characterize", "subject": "gargoyles", "object":"Saint-Jean Cathedral", "subject_link":"https://www.leprogres.fr/lyon/2015/08/08/se-balader-parmi-les-gargouilles-lyonnaises", "object_link":"https://www.lyon.fr/lieu/moyen-age/cathedrale-saint-jean"}
+]
+    
+
+
+
+
+
