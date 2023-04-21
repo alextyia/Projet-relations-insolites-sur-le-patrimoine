@@ -1,0 +1,19 @@
+
+[
+    {"type": "ressemblance", "sentence": "The Royal Academy of Music in Lyon now resembles more of a gambling den than a theater or opera house", "verb": "resembles", "subject": "Royal Academy of Music in Lyon", "object":"gambling den", "subject_link":"https://www.abebooks.fr/Histoire-lacad%C3%A9mie-Royale-Lyon-Dumas-J.B/11202347243/bd", "object_link":"https://morningcity.fr/le-tripot/"},
+    {"type": "ressemblance", "sentence": "The Charles Bridge in Prague resembles the Guillotière Bridge in Lyon", "verb": "resembles", "subject": "Charles Bridge in Prague", "object":"Guillotière Bridge in Lyon", "subject_link":"https://fr.wikipedia.org/wiki/Pont_Charles", "object_link":"https://fr.wikipedia.org/wiki/Pont_de_la_Guilloti%C3%A8re"},
+    {"type": "ressemblance", "sentence": "The Incity Tour in Lyon evokes the Shard Tower", "verb": "evokes", "subject": "Incity Tour", "object":"Shard Tower", "subject_link":"https://fr.wikipedia.org/wiki/Tour_Incity", "object_link":"https://fr.wikipedia.org/wiki/The_Shard"},
+    {"type": "ressemblance", "sentence": "The Basilica of Notre-Dame de Fourvière in Lyon evokes the Basilica of Sacré-Cœur in Paris.", "verb": "evokes", "subject": "Basilica of Notre-Dame de Fourvière", "object":"Basilica of Sacré-Cœur", "subject_link":"https://fr.wikipedia.org/wiki/Basilique_Notre-Dame_de_Fourvi%C3%A8re", "object_link":"https://fr.wikipedia.org/wiki/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre"},
+    {"type": "ressemblance", "sentence": "The Ennemond Fousseret Square in Lyon evokes the Hôtel de la Cour des Loges on Rue du Bœuf.", "verb": "evokes", "subject": "The Ennemond Fousseret Square", "object":"Hôtel de la Cour des Loges", "subject_link":"https://fr.wikipedia.org/wiki/Place_Ennemond-Fousseret", "object_link":"https://www.courdesloges.com/"},
+    {"type": "ressemblance", "sentence": "Four blocks of buildings by SACVL give the appearance of a city heart.", "verb": "give the appearance", "subject": "Four blocks of buildings by SACVL", "object":"city heart", "subject_link":"https://www.lesechos.fr/2003/01/la-sacvl-restructure-la-cite-edouard-herriot-658918", "object_link":""},
+    {"type": "ressemblance", "sentence": "The Musée des Confluences in Lyon resembles a spaceship", "verb": "resembles", "subject":"Musée des Confluences", "object":"spaceship", "subject_link":"https://www.museedesconfluences.fr/fr", "object_link":"https://fr.wikipedia.org/wiki/Vaisseau_spatial"},
+    {"type": "ressemblance", "sentence": "The Guimet Museum in Paris is a replica of the Guimet Museum in Lyon", "verb": "is a replica", "subject": "Guimet Museum in Paris", "object":"Guimet Museum in Lyon", "subject_link":"https://www.guimet.fr/informations-pratiques-5/", "object_link":"https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27histoire_naturelle_-_Guimet"},
+    {"type": "ressemblance", "sentence": "The Louvre Pyramid and the one atop the Part-Dieu Tower in Lyon bear a striking resemblance to each other", "verb": "bear a striking resemblance", "subject": "Louvre Pyramid", "object":"Halles Paul Bocuse", "subject_link":"https://fr.wikipedia.org/wiki/Pyramide_du_Louvre", "object_link":"https://fr.wikipedia.org/wiki/Tour_Part-Dieu"},
+    {"type": "ressemblance", "sentence": "The Place Bellecour in Lyon is sometimes compared to the Piazza Navona in Rome", "verb": "iscompared", "subject": "Place Bellecour", "object":"Piazza Navona", "subject_link":"https://www.toolyon.com/quartiers/bellecour/", "object_link":"https://fr.wikipedia.org/wiki/Piazza_Navona"}
+]
+    
+
+
+
+
+
